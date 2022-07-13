@@ -41,7 +41,7 @@ writer.save()
 files.download('./df_excelWriter.xlsx')
 
 
-# 데이터 사전처리, 전처리
+# 데이터 사전처리, 전처리   
 # NaN, 누락데이터 처리
 import seaborn as sns
 
